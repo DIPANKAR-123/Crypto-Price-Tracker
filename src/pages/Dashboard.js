@@ -86,7 +86,6 @@ function Dashboard() {
         </>
       )}
       <TopButton />
-      <Footer />
     </>
   );
 }
